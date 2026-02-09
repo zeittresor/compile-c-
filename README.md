@@ -4,6 +4,8 @@ Kleines **Tkinter-GUI** (nur Python-Stdlib), das eine einzelne **C#-Datei (`.cs`
 
 Es versucht zuerst den **klassischen .NET Framework `csc.exe`** zu nutzen. Wenn das nicht passt (z. B. moderne .NET 6+/WinForms Codes), kann es automatisch auf **.NET SDK (`dotnet publish`)** wechseln – inkl. optionaler Auto-Installation.
 
+<img width="1208" height="711" alt="compile-c#" src="https://github.com/user-attachments/assets/11741e7a-5e1c-4de1-9939-8475f1abe23a" />
+
 ---
 
 ## Features
