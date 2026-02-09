@@ -20,7 +20,7 @@ Es versucht zuerst den **klassischen .NET Framework `csc.exe`** zu nutzen. Wenn 
 - ✅ **Auto-Mode** erkennt WinForms/WPF und moderne Syntax und bevorzugt dann **dotnet**
 - ✅ **WinForms/.NET 6+ Support** (z. B. `ApplicationConfiguration.Initialize()`), da das Tool im dotnet-Modus ein Windows-Targeting-Projekt erzeugt
 - ✅ Fortschrittsbalken (GUI) + **lesbares Log**
-- ✅ Mehrsprachig (DE / EN / FR / SP / CH / RU)
+- ✅ Mehrsprachig (DE / EN / FR / SP / CHN / RU)
 - ✅ Vollständige Raw-Logs unter `./logs/*.log` (für Debugging)
 
 ---
