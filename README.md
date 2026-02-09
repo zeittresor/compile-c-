@@ -6,6 +6,8 @@ Es versucht zuerst den **klassischen .NET Framework `csc.exe`** zu nutzen. Wenn 
 
 <img width="1208" height="711" alt="compile-c#" src="https://github.com/user-attachments/assets/11741e7a-5e1c-4de1-9939-8475f1abe23a" />
 
+![testcode](https://github.com/user-attachments/assets/d663a76c-bed5-4907-94fa-47bb47e2fb19)
+
 ---
 
 ## Features
