@@ -8,6 +8,8 @@ Es versucht zuerst den **klassischen .NET Framework `csc.exe`** zu nutzen. Wenn 
 
 ![testcode](https://github.com/user-attachments/assets/d663a76c-bed5-4907-94fa-47bb47e2fb19)
 
+<img width="961" height="572" alt="grafik" src="https://github.com/user-attachments/assets/bccbb44b-bf45-4801-9c15-397f77528c8a" />
+
 ---
 
 ## Features
